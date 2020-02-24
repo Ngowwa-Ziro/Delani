@@ -49,52 +49,52 @@ $(document).ready(function() {
     });
 });
 $(document).ready(function() {
-    $('#kwork4').mouseover(function() {
+    $('#jwork4').mouseover(function() {
         $('#work4').show();
     });
-    $('#kwork4').mouseleave(function() {
+    $('#jwork4').mouseleave(function() {
         $('#work4').hide();
     });
-    $('#kwork3').mouseover(function() {
+    $('#jwork3').mouseover(function() {
         $('#work3').show();
     });
-    $('#kwork3').mouseleave(function() {
+    $('#jwork3').mouseleave(function() {
         $('#work3').hide();
     });
-    $('#kwork2').mouseover(function() {
+    $('#jwork2').mouseover(function() {
         $('#work2').show();
     });
-    $('#kwork2').mouseleave(function() {
+    $('#jwork2').mouseleave(function() {
         $('#work2').hide();
     });
-    $('#kwork1').mouseover(function() {
+    $('#jwork1').mouseover(function() {
         $('#work1').show();
     });
-    $('#kwork1').mouseleave(function() {
+    $('#jwork1').mouseleave(function() {
         $('#work1').hide();
     });
-    $('#kwork5').mouseover(function() {
+    $('#jwork5').mouseover(function() {
         $('#work5').show();
     });
-    $('#kwork5').mouseleave(function() {
+    $('#jwork5').mouseleave(function() {
         $('#work5').hide();
     });
-    $('#kwork6').mouseover(function() {
+    $('#jwork6').mouseover(function() {
         $('#work6').show();
     });
-    $('#kwork6').mouseleave(function() {
+    $('#jwork6').mouseleave(function() {
         $('#work6').hide();
     });
-    $('#kwork7').mouseover(function() {
+    $('#jwork7').mouseover(function() {
         $('#work7').show();
     });
-    $('#kwork7').mouseleave(function() {
+    $('#jwork7').mouseleave(function() {
         $('#work7').hide();
     });
-    $('#kwork8').mouseover(function() {
+    $('#jwork8').mouseover(function() {
         $('#work8').show();
     });
-    $('#kwork8').mouseleave(function() {
+    $('#jwork8').mouseleave(function() {
         $('#work8').hide();
     });
 });
